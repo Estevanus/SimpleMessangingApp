@@ -1,0 +1,9 @@
+F:\Computer\Visual Studio\2010\C#\Simple Messanging Client\Simple Messanging Client\obj\x86\Debug\Simple_Messanging_Client.mainForm.resources
+F:\Computer\Visual Studio\2010\C#\Simple Messanging Client\Simple Messanging Client\obj\x86\Debug\Simple_Messanging_Client.Properties.Resources.resources
+F:\Computer\Visual Studio\2010\C#\Simple Messanging Client\Simple Messanging Client\obj\x86\Debug\Simple Messanging Client.csproj.GenerateResource.Cache
+F:\Computer\Visual Studio\2010\C#\Simple Messanging Client\Simple Messanging Client\bin\Debug\Simple Messanging Client.exe
+F:\Computer\Visual Studio\2010\C#\Simple Messanging Client\Simple Messanging Client\bin\Debug\Simple Messanging Client.pdb
+F:\Computer\Visual Studio\2010\C#\Simple Messanging Client\Simple Messanging Client\obj\x86\Debug\Simple Messanging Client.exe
+F:\Computer\Visual Studio\2010\C#\Simple Messanging Client\Simple Messanging Client\obj\x86\Debug\Simple Messanging Client.pdb
+F:\Computer\Visual Studio\2010\C#\Simple Messanging Client\Simple Messanging Client\obj\x86\Debug\Simple_Messanging_Client.loginForm.resources
+F:\Computer\Visual Studio\2010\C#\Simple Messanging Client\Simple Messanging Client\obj\x86\Debug\Simple Messanging Client.csprojResolveAssemblyReference.cache
