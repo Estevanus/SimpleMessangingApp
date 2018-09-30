@@ -12,7 +12,8 @@ def encode(data):
 	return "|".join(data)
 
 s = socket.socket(AF_INET, SOCK_DGRAM)
-s.bind(("", var.port))
+host = input("host : ")
+s.bind((host, var.port))
 #s.listen(10)#10 koneksi yg diterima
 s.settimeout(30)
 timeoutCount = 0
